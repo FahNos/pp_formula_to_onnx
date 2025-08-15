@@ -1,6 +1,6 @@
 Global:
-  backbone_onnx_path: ./onnx_model/backbone.onnx
-  head_onnx_path: ./onnx_model/head_fp16.onnx
+  backbone_onnx_path: ./output/onnx_models/backbone.onnx
+  head_onnx_path: ./output/onnx_models/head_fixed.onnx
   model_name: PP-FormulaNet_plus-M # To use static model for inference.
   use_gpu: False
   epoch_num: 20
