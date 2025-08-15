@@ -1,0 +1,8 @@
+--extra-index-url https://www.paddlepaddle.org.cn/packages/stable/cpu/
+paddlepaddle==3.1.0
+paddleocr
+paddle2onnx
+onnxruntime
+onnx
+lmdb
+numpy==1.26.4
