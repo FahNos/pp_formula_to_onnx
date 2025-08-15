@@ -15,7 +15,7 @@ Global:
   checkpoints:
   save_inference_dir:
   use_visualdl: False
-  infer_img: ./input_image/formular2.png
+  infer_img: ./general_formula_rec_001.png
   infer_mode: False
   use_space_char: False
   rec_char_dict_path: &rec_char_dict_path  ppocr/utils/dict/unimernet_tokenizer
